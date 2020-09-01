@@ -50,7 +50,7 @@ const Content = styled.View`
 const Text = styled.Text`
   font-family: Robot-Regular;
   font-size: 16px;
-  color: #ccc;
+  color: #333;
 `;
 
 const DefaultButton = styled.TouchableOpacity`
